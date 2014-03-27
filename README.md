@@ -9,8 +9,7 @@ We recommend installing with [CocoaPods][]
 
     pod 'TCPixelReader', :git => 'git@github.com:theocalmes/TCPixelReader.git'
 
-Alternatively, you can just copy the category from the `Source` directory into
-your project.
+Alternatively, you can just copy code directly into your project.
 
 [CocoaPods]: http://cocoapods.org
 
